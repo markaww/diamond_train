@@ -1,8 +1,16 @@
+# Diamond train
+## Dataset analysis 
+
+<p align="center">
+  <img width="460" height="300" src="https://www.hudsonpoole.com/blog/wp-content/uploads/2018/01/The-4cs-Diamond-hudsonpoole.jpg">
+</p>
+
+
 In this project, I explored a dataset of 40.000 diamonds. The data set displayed a number of columns containing qualitative details for each diamond along with it's price. The goal of this project was to visually identify trends/insights in this dataset. 
 
 In the first stage, I explored the data on a jupyter notebook, plotting as many graphs as possible to identify interesting features in the dataset
 
-Quite quickly, I could see a correlation between the 4 C's (Color, Carat, Cut and Clarity) and the price, as is often stated on diamond related narrative. However, what quickly also emerged is that some of the C's had a stronger impact on the price than others. Namely, carat and color were affected the price more than clarity and cut. 
+Quite quickly, I could see a correlation between the 4 C's (Color, Carat, Cut and Clarity) and the price, as is often stated on diamond related narrative. However, what quickly also emerged is that some of the C's had a stronger impact on the price than others. Namely, carat and color affected the price more than clarity and cut. 
 
 With this in mind, I took the dataset to tableau, and visually explored the dataset further. My findings are available in this public tableau project:
 
