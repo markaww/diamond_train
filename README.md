@@ -2,7 +2,7 @@
 ## Dataset analysis 
 
 <p align="center">
-  <img width="460" height="300" src="https://www.hudsonpoole.com/blog/wp-content/uploads/2018/01/The-4cs-Diamond-hudsonpoole.jpg">
+  <img src="https://www.hudsonpoole.com/blog/wp-content/uploads/2018/01/The-4cs-Diamond-hudsonpoole.jpg">
 </p>
 
 
