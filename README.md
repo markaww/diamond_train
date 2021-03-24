@@ -5,6 +5,7 @@
   <img src="https://www.hudsonpoole.com/blog/wp-content/uploads/2018/01/The-4cs-Diamond-hudsonpoole.jpg">
 </p>
 
+### Part 1 - Analysis
 
 In this project, I explored a dataset of 40.000 diamonds. The data set displayed a number of columns containing qualitative details for each diamond along with it's price. The goal of this project was to visually identify trends/insights in this dataset. 
 
@@ -18,4 +19,8 @@ https://public.tableau.com/profile/mark.a.westmacott#!/vizhome/Diamond_train/Sto
 
 Indeed, it seems like while clarity and cut do increase price from low quality to mid quality diamonds, after a certain point, as we progress towards higher clarity and better cut diamonds, the price does not appear to increase as much. 
 
-Something to keep in mind next time you go diamond shopping! 
+
+### Part 2 - Machine learning model
+
+In the second part of this project I took the same dataset and applied a lightGTBM model to prodict the price of new diamonds, based on the features of the existing ones
+
