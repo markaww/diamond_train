@@ -1,9 +1,6 @@
 # Diamond train
 ## Dataset analysis 
 
-<p align="center">
-  <img src="https://www.hudsonpoole.com/blog/wp-content/uploads/2018/01/The-4cs-Diamond-hudsonpoole.jpg">
-</p>
 
 ### Part 1 - Analysis
 
@@ -22,6 +19,6 @@ Indeed, it seems like while clarity and cut do increase price from low quality t
 
 ### Part 2 - Machine learning model
 
-In the second part of this project I took the same dataset and applied a lightGTBM model to prodict the price of new diamonds, based on the features of the existing ones
+In the second part of this project I took the same dataset and applied a machine learning model to predict the price of new diamonds, based on the features of the existing ones
 
 The model uses SimpleImputer, RobustScaler and OrdinalEncoder to prepare the data, and then applies a LGBMRegressor as model. The hyperparameters of the model were also optimized with RandomizedSearchCV and GridSearch. The results were uploaded to kaggle for an internal Ironhack competition
