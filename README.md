@@ -24,3 +24,4 @@ Indeed, it seems like while clarity and cut do increase price from low quality t
 
 In the second part of this project I took the same dataset and applied a lightGTBM model to prodict the price of new diamonds, based on the features of the existing ones
 
+The model uses SimpleImputer, RobustScaler and OrdinalEncoder to prepare the data, and then applies a LGBMRegressor as model. The hyperparameters of the model were also optimized with RandomizedSearchCV and GridSearch. The results were uploaded to kaggle for an internal Ironhack competition
